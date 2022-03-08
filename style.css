@@ -1,4 +1,4 @@
-*{
+body{
     background-color: plum;
     font-family: sans-serif;
 }
@@ -36,4 +36,10 @@ div#header{
 }
 ul{
     list-style: none;
+}
+
+.fish{
+    height: 20%;
+    max-width: 40%;
+    float: right;
 }
