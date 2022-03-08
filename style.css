@@ -3,6 +3,15 @@ body{
     font-family: sans-serif;
 }
 
+div#header{
+    background-color: black;
+    margin: 0%;
+}
+
+.nav{
+    float: right;
+}
+
 .cover{
     max-width: 100%;
     height: auto;
@@ -31,9 +40,6 @@ body{
     float: right;
 }
 
-div#header{
-    
-}
 ul{
     list-style: none;
 }
