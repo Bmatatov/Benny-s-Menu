@@ -1,0 +1,39 @@
+.body1{
+    background-color: plum;
+    font-family: sans-serif;
+}
+
+.cover{
+    max-width: 100%;
+    height: auto;
+}
+
+.l1{
+    background-color: black;
+    color: ivory;
+    margin: 10%;
+}
+
+.why{
+    max-width: 50%;
+    flex: content;
+    align-self: center;
+}
+
+.p1{
+    padding-right: 40%;
+}
+
+.me{
+    flex: auto;
+    max-width: 40%;
+    height: auto;
+    float: right;
+}
+
+div#header{
+    
+}
+ul{
+    list-style: none;
+}
