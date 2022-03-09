@@ -1,62 +1,12 @@
 body{
-    background-color: plum;
+    background-color: whitesmoke;
     font-family: sans-serif;
     margin: 1%;
     margin-top: 0%;
-}
-
-.header{
-    background-color: black;
-    margin: auto;
-}
-
-nav {
-    float: right;
-}
-
-nav ul{
-    display: inline-flex;
-}
-
-nav li{
-    margin: 0%;
-    padding-left: 0%;
-}
-
-.cover{
-    max-width: 100%;
-    height: auto;
-}
-
-.l1{
-    background-color: black;
-    color: ivory;
-    margin: 10%;
-}
-
-.why{
-    max-width: 50%;
-    flex: content;
-    align-self: center;
-}
-
-.p1{
-    padding-right: 40%;
-}
-
-.me{
-    flex: auto;
-    max-width: 40%;
-    height: auto;
-    float: right;
-}
-
-ul{
     list-style: none;
 }
 
-.fish{
-    height: 20%;
-    max-width: 40%;
-    float: right;
+.header{
+    background-color: red;
+    margin: auto;
 }
