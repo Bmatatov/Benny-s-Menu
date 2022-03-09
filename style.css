@@ -1,18 +1,11 @@
 body{
     background-color: whitesmoke;
     font-family: sans-serif;
+    margin: 0em;
 }
 
 header{
     background-color: red;
-
-nav{
-    display: inline-flex;
-}
-nav li{
-    float: right;
-    list-style: none;
-    justify-content: space-between;
 }
 
 a:hover{
