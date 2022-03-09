@@ -1,11 +1,26 @@
 body{
     background-color: plum;
     font-family: sans-serif;
+    margin: 1%;
+    margin-top: 0%;
 }
 
 div#header{
     background-color: black;
     margin: 0%;
+}
+
+nav {
+    float: right;
+}
+
+nav ul{
+    display: inline-flex;
+}
+
+nav li{
+    margin: 0%;
+    padding-left: 0%;
 }
 
 .cover{
