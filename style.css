@@ -82,8 +82,8 @@ ul li {
 .l1 {
   margin: 2.5em;
   margin-bottom: 1em;
-  background-color: lightgreen;
-  border: 5px solid black;
+  background-color: white;
+  box-shadow: 3px 3px red, -1em 0 .4em black;
   height: 24em;
   width: 60em;
   float: right;
@@ -104,8 +104,8 @@ ul li {
 .l2 {
   margin: 2.5em;
   margin-bottom: 1em;
-  background-color: orange;
-  border: 5px solid black;
+  background-color: white;
+  box-shadow: 3px 3px red, -1em 0 .4em black;
   height: 23em;
   width: 60em;
   float: left;
@@ -133,8 +133,8 @@ ul li {
 .l3 {
   margin: 2.5em;
   margin-bottom: 1em;
-  background-color: yellow;
-  border: 5px solid black;
+  background-color: white;
+  box-shadow: 3px 3px red, -1em 0 .4em black;
   height: 23em;
   width: 60em;
   float: right;
@@ -162,8 +162,8 @@ ul li {
 .l4 {
   margin: 2.5em;
   margin-bottom: 1em;
-  background-color: palevioletred;
-  border: 5px solid black;
+  background-color: white;
+  box-shadow: 3px 3px red, -1em 0 .4em black;
   height: 24em;
   width: 60em;
   float: left;
@@ -205,8 +205,8 @@ div#content {
 
 .ing {
   padding: 0.5em;
-  background-color: limegreen;
-  border: 5px solid black;
+  background-color: white;
+  box-shadow: 3px 3px red, -1em 0 .4em black;
   height: 30em;
   width: 15em;
   float: left;
@@ -215,8 +215,8 @@ div#content {
 
 .prep1 {
   padding: 0.5em;
-  background-color: peru;
-  border: 5px solid black;
+  background-color: white;
+  box-shadow: 3px 3px red, -1em 0 .4em black;
   height: 30em;
   width: 20em;
   float: left;
@@ -228,19 +228,19 @@ div#content {
 
 .ing2 {
   padding: 0.5em;
-  background-color: brown;
-  border: 5px solid black;
+  background-color: white;
+  box-shadow: 3px 3px red, -1em 0 .4em black;
   height: 24em;
   width: 15em;
   float: left;
   font-size: medium;
-  color: goldenrod;
+  color: black;
 }
 
 .prep2 {
   padding: 0.5em;
-  background-color: burlywood;
-  border: 5px solid black;
+  background-color: white;
+  box-shadow: 3px 3px red, -1em 0 .4em black;
   height: 24em;
   width: 20em;
   float: left;
@@ -252,8 +252,8 @@ div#content {
 
 .ing3 {
   padding: 0.5em;
-  background-color: #ff5555;
-  border: 5px solid black;
+  background-color: white;
+  box-shadow: 3px 3px red, -1em 0 .4em black;
   height: 18em;
   width: 15em;
   float: left;
@@ -262,8 +262,8 @@ div#content {
 
 .prep3 {
   padding: 0.5em;
-  background-color: burlywood;
-  border: 5px solid black;
+  background-color: white;
+  box-shadow: 3px 3px red, -1em 0 .4em black;
   height: 26em;
   width: 48em;
   float: left;
@@ -275,8 +275,8 @@ div#content {
 
 .ing4 {
   padding: 0.5em;
-  background-color: yellow;
-  border: 5px solid black;
+  background-color: white;
+  box-shadow: 3px 3px red, -1em 0 .4em black;
   height: 15em;
   width: 15em;
   float: left;
@@ -285,8 +285,8 @@ div#content {
 
 .prep4 {
   padding: 0.5em;
-  background-color: burlywood;
-  border: 5px solid black;
+  background-color: white;
+  box-shadow: 3px 3px red, -1em 0 .4em black;
   height: 15em;
   width: 40em;
   float: left;
