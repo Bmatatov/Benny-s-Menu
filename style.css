@@ -2,6 +2,7 @@ body{
     background-color: whitesmoke;
     font-family: sans-serif;
     margin: 0em;
+    margin-bottom: 1em;
 }
 
 header{
@@ -75,7 +76,7 @@ ul li{
     margin-bottom: 1em;
     background-color: lightgreen;
     border: 5px solid black;
-    height: 23em;
+    height: 24em;
     width: 60em;
     float: right;
     font-size: medium;
@@ -119,4 +120,62 @@ ul li{
 .p2{
     margin: 1em;
     margin-right: 0em;
+}
+
+.l3{
+    margin: 2.5em;
+    margin-bottom: 1em;
+    background-color: yellow;
+    border: 5px solid black;
+    height: 23em;
+    width: 60em;
+    float: right;
+    font-size: medium;
+}
+
+.cul{
+    margin: 1em;
+    text-align: center;
+    font-size: x-large;
+}
+
+.mex{
+    max-width: 40%;
+    height: auto;
+    float: right;
+    margin: 1em;
+}
+
+.p3{
+    margin: 1em;
+    margin-right: 0em; 
+}
+
+.l4{
+    margin: 2.5em;
+    margin-bottom: 1em;
+    background-color: palevioletred;
+    border: 5px solid black;
+    height: 24em;
+    width: 60em;
+    float: left;
+    font-size: medium;
+}
+
+.like{
+    margin: 1em;
+    text-align: center;
+    font-size: x-large;
+}
+
+.angry{
+    max-width: 30%;
+    height: auto;
+    float: right;
+    margin: 1em; 
+}
+
+.p4{
+    margin: 1em;
+    margin-right: 0em; 
 }
