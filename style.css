@@ -183,3 +183,111 @@ ul li {
   margin: 1em;
   margin-right: 0em;
 }
+
+div#content {
+    margin: 1em;
+}
+
+.h2 {
+    font-size: xx-large;
+}
+
+.img {
+    max-width: 27em;
+    height: auto;
+    float: right;
+    margin: 1em;
+}
+
+.ing {
+    padding: .5em;
+    background-color: limegreen;
+    border: 5px solid black;
+    height: 30em;
+    width: 15em;
+    float: left;
+    font-size: medium;
+}
+
+.prep1 {
+    padding: .5em;
+    background-color: peru;
+    border: 5px solid black;
+    height: 30em;
+    width: 20em;
+    float: left;
+    font-size: medium;
+    margin-left: 5em;
+    margin-right: 5em;
+    color: black;
+}
+
+.ing2 {
+    padding: .5em;
+    background-color: brown;
+    border: 5px solid black;
+    height: 24em;
+    width: 15em;
+    float: left;
+    font-size: medium;
+    color: goldenrod;
+}
+
+.prep2 {
+    padding: .5em;
+    background-color: burlywood;
+    border: 5px solid black;
+    height: 24em;
+    width: 20em;
+    float: left;
+    font-size: medium;
+    margin-left: 5em;
+    margin-right: 5em;
+    color: black;
+}
+
+.ing3 {
+    padding: .5em;
+    background-color: #ff5555;
+    border: 5px solid black;
+    height: 18em;
+    width: 15em;
+    float: left;
+    font-size: medium;
+}
+
+.prep3 {
+    padding: .5em;
+    background-color: burlywood;
+    border: 5px solid black;
+    height: 26em;
+    width: 48em;
+    float: left;
+    font-size: medium;
+    margin-left: 5em;
+    margin-right: 5em;
+    color: black;
+}
+
+.ing4 {
+    padding: .5em;
+    background-color: yellow;
+    border: 5px solid black;
+    height: 15em;
+    width: 15em;
+    float: left;
+    font-size: medium;
+}
+
+.prep4 {
+    padding: .5em;
+    background-color: burlywood;
+    border: 5px solid black;
+    height: 15em;
+    width: 40em;
+    float: left;
+    font-size: medium;
+    margin-left: 5em;
+    margin-right: 5em;
+    color: black;
+}
