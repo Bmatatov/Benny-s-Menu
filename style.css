@@ -1,186 +1,185 @@
-body{
-    background-color: whitesmoke;
-    font-family: sans-serif;
-    margin: 0em;
-    margin-bottom: 1em;
+body {
+  background-color: whitesmoke;
+  font-family: sans-serif;
+  margin: 0em;
+  margin-bottom: 1em;
 }
 
-header{
-    background-color: red;
-    position: sticky;
-    top: 0%;
-    display: flex;
-    justify-content: space-between;
+header {
+  background-color: red;
+  position: sticky;
+  top: 0%;
+  display: flex;
+  justify-content: space-between;
 }
 
-.h1{
-    background-color: black;
-    color: white;
+.h1 {
+  background-color: black;
+  color: white;
 }
 
-.h1:hover{
-    color: red;
+.h1:hover {
+  color: red;
 }
 
-header ul{
-    list-style: none;
-    display: inline-flex;
+header ul {
+  list-style: none;
+  display: inline-flex;
 }
 
-header a{
-    float: left;
-    color: black;
-    text-align: center;
-    padding: 10px 12px;
-    text-decoration: none;
-    font-size: x-large;
-    text-transform: uppercase;
+header a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 10px 12px;
+  text-decoration: none;
+  font-size: x-large;
+  text-transform: uppercase;
 }
 
-
-a:hover{
-    color: white;
-    background-color: black;
+a:hover {
+  color: white;
+  background-color: black;
 }
 
-.h2{
-    background-color: white;
-    color: black;
+.active {
+  background-color: white;
+  color: black;
 }
 
-header ul li a:active{
-    color: white;
+header ul li a:active {
+  color: white;
 }
 
-ul li{
-    list-style: none;
+ul li {
+  list-style: none;
 }
 
-.cover{
-    object-fit: cover;
-    max-width: 100%;
-    height: auto;
-    margin-bottom: 1%;
+.cover {
+  object-fit: cover;
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 1%;
 }
 
-.me{
-    max-width: 30%;
-    height: auto;
-    float: right;
-    margin: 1em;
+.me {
+  max-width: 30%;
+  height: auto;
+  float: right;
+  margin: 1em;
 }
 
-.homepage{
-    margin-left: 5em;
-    margin-right: 5em;
-    margin-bottom: 5em;
+.homepage {
+  margin-left: 5em;
+  margin-right: 5em;
+  margin-bottom: 5em;
 }
 
-.l1{
-    margin: 2.5em;
-    margin-bottom: 1em;
-    background-color: lightgreen;
-    border: 5px solid black;
-    height: 24em;
-    width: 60em;
-    float: right;
-    font-size: medium;
+.l1 {
+  margin: 2.5em;
+  margin-bottom: 1em;
+  background-color: lightgreen;
+  border: 5px solid black;
+  height: 24em;
+  width: 60em;
+  float: right;
+  font-size: medium;
 }
 
-.why{
-    margin: 1em;
-    text-align: center;
-    font-size: x-large;
+.why {
+  margin: 1em;
+  text-align: center;
+  font-size: x-large;
 }
 
-.p1{
-    margin: 1em;
-    margin-right: 0em;
+.p1 {
+  margin: 1em;
+  margin-right: 0em;
 }
 
-.l2{
-    margin: 2.5em;
-    margin-bottom: 1em;
-    background-color: orange;
-    border: 5px solid black;
-    height: 23em;
-    width: 60em;
-    float: left;
-    font-size: medium;
+.l2 {
+  margin: 2.5em;
+  margin-bottom: 1em;
+  background-color: orange;
+  border: 5px solid black;
+  height: 23em;
+  width: 60em;
+  float: left;
+  font-size: medium;
 }
 
-.exp{
-    margin: 1em;
-    text-align: center;
-    font-size: x-large;
+.exp {
+  margin: 1em;
+  text-align: center;
+  font-size: x-large;
 }
 
-.pep{
-    max-width: 40%;
-    height: auto;
-    float: right;
-    margin: 1em;
+.pep {
+  max-width: 40%;
+  height: auto;
+  float: right;
+  margin: 1em;
 }
 
-.p2{
-    margin: 1em;
-    margin-right: 0em;
+.p2 {
+  margin: 1em;
+  margin-right: 0em;
 }
 
-.l3{
-    margin: 2.5em;
-    margin-bottom: 1em;
-    background-color: yellow;
-    border: 5px solid black;
-    height: 23em;
-    width: 60em;
-    float: right;
-    font-size: medium;
+.l3 {
+  margin: 2.5em;
+  margin-bottom: 1em;
+  background-color: yellow;
+  border: 5px solid black;
+  height: 23em;
+  width: 60em;
+  float: right;
+  font-size: medium;
 }
 
-.cul{
-    margin: 1em;
-    text-align: center;
-    font-size: x-large;
+.cul {
+  margin: 1em;
+  text-align: center;
+  font-size: x-large;
 }
 
-.mex{
-    max-width: 40%;
-    height: auto;
-    float: right;
-    margin: 1em;
+.mex {
+  max-width: 40%;
+  height: auto;
+  float: right;
+  margin: 1em;
 }
 
-.p3{
-    margin: 1em;
-    margin-right: 0em; 
+.p3 {
+  margin: 1em;
+  margin-right: 0em;
 }
 
-.l4{
-    margin: 2.5em;
-    margin-bottom: 1em;
-    background-color: palevioletred;
-    border: 5px solid black;
-    height: 24em;
-    width: 60em;
-    float: left;
-    font-size: medium;
+.l4 {
+  margin: 2.5em;
+  margin-bottom: 1em;
+  background-color: palevioletred;
+  border: 5px solid black;
+  height: 24em;
+  width: 60em;
+  float: left;
+  font-size: medium;
 }
 
-.like{
-    margin: 1em;
-    text-align: center;
-    font-size: x-large;
+.like {
+  margin: 1em;
+  text-align: center;
+  font-size: x-large;
 }
 
-.angry{
-    max-width: 30%;
-    height: auto;
-    float: right;
-    margin: 1em; 
+.angry {
+  max-width: 30%;
+  height: auto;
+  float: right;
+  margin: 1em;
 }
 
-.p4{
-    margin: 1em;
-    margin-right: 0em; 
+.p4 {
+  margin: 1em;
+  margin-right: 0em;
 }
