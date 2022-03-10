@@ -13,6 +13,10 @@ header {
   justify-content: space-between;
 }
 
+nav {
+    padding-top: 1.5em;
+}
+
 .h1 {
   background-color: black;
   color: white;
